@@ -1,0 +1,4 @@
+LEFTPAR 1:1
+DEFINE 1:2
+LEFTPAR 1:9
+LEXICAL ERROR [1:10]: Invalid token '0fibonacci'
